@@ -1,12 +1,326 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.tests\\businessservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.tests\\businessservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.core\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.core\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.api\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.api\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.services\\businessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.services\\businessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.services\\shoeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.services\\shoeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.infrastructure\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.infrastructure\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.infrastructure\\repositories\\shoerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.infrastructure\\repositories\\shoerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.core\\validators\\shoevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.core\\validators\\shoevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.core\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.core\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|c:\\users\\pc\\source\\repos\\shoestoredatabase\\shoestore\\shoestore\\shoestore.tests\\shoestore.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{437AC28C-8E70-42B9-B612-59A6FDEA28BA}|ShoeStore\\ShoeStore.csproj|solutionrelative:shoestore\\shoestore.tests\\shoestore.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\WeatherForecast.cs",
+              "RelativeToolTip": "ShoeStore\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:04:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoeStore\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:00:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoeService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\ShoeService.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Services\\ShoeService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\ShoeService.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Services\\ShoeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:37:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\CustomerService.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:38:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\BusinessService.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Services\\BusinessService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Services\\BusinessService.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Services\\BusinessService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:38:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\Controllers\\BusinessController.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.API\\Controllers\\BusinessController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\Controllers\\BusinessController.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.API\\Controllers\\BusinessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:40:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\Program.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvysAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:40:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Tests\\BusinessServiceTests.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Tests\\BusinessServiceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Tests\\BusinessServiceTests.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Tests\\BusinessServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:49:54.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Core\\Validators\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Validators\\CustomerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:34:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Infrastructure\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\MongoDbContext.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:34:56.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\appsettings.json",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T19:41:05.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.API\\appsettings.Development.json",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T19:41:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:36:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\Repositories\\ShoeRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\ShoeRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\Repositories\\ShoeRepository.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\ShoeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:36:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Validators\\ShoeValidator.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Core\\Validators\\ShoeValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Validators\\ShoeValidator.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Validators\\ShoeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:33:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Core\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Models\\Customer.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:33:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Core\\Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Core\\Models\\Shoe.cs",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Models\\Shoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:33:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoeStore.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
+              "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
+              "RelativeToolTip": "ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T19:50:50.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

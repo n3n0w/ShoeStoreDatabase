@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfo.cs
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\ShoeStoreDatabase\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.sourcelink.json
