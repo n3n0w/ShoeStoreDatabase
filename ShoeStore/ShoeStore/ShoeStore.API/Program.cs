@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MongoDB.Driver;
 using Serilog;
 using ShoeStore.Infrastructure;
 using ShoeStore.Infrastructure.Repositories;
@@ -8,12 +9,16 @@ using ShoeStore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add Serilog
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
     .CreateLogger();
 
 builder.Host.UseSerilog();
+
+builder.Services.AddSingleton<IMongoClient, MongoClient>(sp =>
+    new MongoClient(builder.Configuration.GetConnectionString("MongoDb")));
+builder.Services.AddScoped(sp =>
+    sp.GetRequiredService<IMongoClient>().GetDatabase(builder.Configuration["DatabaseName"]));
 
 builder.Services.AddSingleton<MongoDbContext>(sp =>
     new MongoDbContext(
@@ -29,16 +34,19 @@ builder.Services.AddScoped<BusinessService>();
 
 builder.Services.AddControllers();
 
-// Add health checks
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 builder.Services.AddHealthChecks()
     .AddCheck("ShoeStoreHealthCheck", () => Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckResult.Healthy());
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
+    app.UseSwagger();
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ShoeStore API v1"));
 }
 
 app.UseSerilogRequestLogging();
