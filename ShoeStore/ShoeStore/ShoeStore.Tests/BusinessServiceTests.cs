@@ -18,7 +18,7 @@ namespace ShoeStore.Tests
             mockShoeRepository.Setup(repo => repo.GetAllAsync()).ReturnsAsync(new List<Shoe> { new Shoe(), new Shoe() });
 
             var shoeService = new ShoeService(mockShoeRepository.Object);
-            var businessService = new BusinessService(shoeService, null);
+            var businessService = new BusinessService(shoeService, customerService: null);
 
             // Act
             var result = await businessService.GetTotalShoesAsync();
