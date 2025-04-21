@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MongoDB.Driver;
-"using Serilog;"
+using Serilog;
 using ShoeStore.Infrastructure;
 using ShoeStore.Infrastructure.Repositories;
 using ShoeStore.Services;
