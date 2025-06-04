@@ -134,8 +134,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-01T18:17:18.055Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T19:38:18.378Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T09:54:32.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T09:54:32.605Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "ShoeStore\\ProductService\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:01:16.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T18:01:16.317Z"
             },
             {
               "$type": "Document",
@@ -185,10 +181,9 @@
               "RelativeDocumentMoniker": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\ShoeStoreDatabase\\ShoeStore\\ShoeStore\\ShoeStore.Infrastructure\\Repositories\\IRepository.cs",
               "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:58:38.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T17:58:38.843Z"
             },
             {
               "$type": "Document",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.API\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADgvxgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:40:34.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:40:34.446Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T19:41:05.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:41:05.497Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:33:39.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:33:39.585Z"
             },
             {
               "$type": "Document",
@@ -239,8 +231,7 @@
               "RelativeToolTip": "ShoeStore\\ProductService\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:01:38.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T18:01:38.517Z"
             },
             {
               "$type": "Document",
@@ -252,8 +243,7 @@
               "RelativeToolTip": "ShoeStore\\ProductService\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:00:51.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T18:00:51.974Z"
             },
             {
               "$type": "Document",
@@ -278,8 +268,7 @@
               "RelativeToolTip": "ShoeStore\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:00:21.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:00:21.273Z"
             },
             {
               "$type": "Document",
@@ -291,8 +280,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Models\\Shoe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:33:29.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:33:29.754Z"
             },
             {
               "$type": "Document",
@@ -304,8 +292,7 @@
               "RelativeToolTip": "ShoeStore\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:04:56.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:04:56.515Z"
             },
             {
               "$type": "Document",
@@ -317,8 +304,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-01T18:17:26.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:17:26.17Z"
             },
             {
               "$type": "Document",
@@ -330,8 +316,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T21:12:40.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T21:12:40.548Z"
             },
             {
               "$type": "Document",
@@ -343,8 +328,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\ShoeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:36:25.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:36:25.587Z"
             },
             {
               "$type": "Document",
@@ -356,8 +340,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\MongoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:34:56.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:34:56.71Z"
             },
             {
               "$type": "Document",
@@ -369,8 +352,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Infrastructure\\Repositories\\CustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:36:35.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:36:35.32Z"
             },
             {
               "$type": "Document",
@@ -382,8 +364,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Tests\\BusinessServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADgvx0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:49:54.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:49:54.13Z"
             },
             {
               "$type": "Document",
@@ -395,8 +376,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Services\\ShoeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:37:58.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:37:58.614Z"
             },
             {
               "$type": "Document",
@@ -408,8 +388,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Services\\CustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:38:09.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:38:09.203Z"
             },
             {
               "$type": "Document",
@@ -421,8 +400,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Validators\\ShoeValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:33:50.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:33:50.472Z"
             },
             {
               "$type": "Document",
@@ -434,8 +412,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Core\\Validators\\CustomerValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:34:00.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:34:00.428Z"
             },
             {
               "$type": "Document",
@@ -447,8 +424,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.API\\Controllers\\BusinessController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:40:19.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:40:19.163Z"
             },
             {
               "$type": "Document",
@@ -460,8 +436,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:12:11.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T11:12:11.416Z"
             },
             {
               "$type": "Document",
@@ -473,8 +448,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T19:41:40.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:41:40.117Z"
             },
             {
               "$type": "Document",
@@ -486,8 +460,7 @@
               "RelativeToolTip": "ShoeStore\\ShoeStore.Tests\\ShoeStore.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-30T19:50:50.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:50:50.31Z"
             }
           ]
         }
